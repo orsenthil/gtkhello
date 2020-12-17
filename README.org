@@ -4,3 +4,5 @@ Tutorial from
 https://not.cafe/2020/10/12/getting-started-with-c-programming.html
 
 This code uses cmake to build. Has CMakefile that enables cmake.
+
+[[https://i.imgur.com/sRvYucL.png]]
